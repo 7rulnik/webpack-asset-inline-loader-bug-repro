@@ -1,0 +1,15 @@
+{
+  "name": "webpack-asset-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "raw-loader": "^4.0.2",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  }
+}
